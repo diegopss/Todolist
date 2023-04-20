@@ -1,13 +1,6 @@
 # :clipboard: TodoList API
 
-Esta é uma API de lista de tarefas desenvolvida com as seguintes tecnologias:
-
-- :rocket: **Spring Boot**
-- :page_facing_up: **Spring JPA**
-- :computer: **Spring Web**
-- :closed_book: **Swagger 3**
-- :hammer_and_wrench: **Lombok**
-- :elephant: **PostgreSQL** em nuvem com ElephantSQL.
+Esta é uma API de lista de tarefas criada por Diego Passos.
 
 ## :gear: Como executar
 
